@@ -16,3 +16,5 @@ $path2vmd/vmd example.pdb -e example.tcl
 5: The compressed file Ligand_MOAD_Holo.zip contains the results for surveying atomic frustration in a representative database for protein-ligand complexes. 
 
 6: The compressed file Ligand_MOAD_Apo.zip contains the results for surveying atomic frustration in a representative database for proteins-only (ligands are removed). 
+
+For any questions, please contact Mingchen Chen (chenmingchen19931012@gmail.com).

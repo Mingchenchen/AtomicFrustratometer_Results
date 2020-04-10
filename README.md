@@ -4,6 +4,7 @@ Results for atomic frustratometer manuscript.
 1: To visualize the results, one must install pymol or VMD on your personal computer. 
 To visualize using pymol, please use the following command: 
 $path2pymol/PyMOL example.pdb  example.pml
+
 To visualize using VMD, please use the following command: 
 $path2vmd/vmd example.pdb -e example.tcl
 

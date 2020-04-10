@@ -29,4 +29,6 @@ $path2vmd/vmd example.pdb -e example.tcl
 
 11: The compressed file BenchMarkII_Complex_Survey.tar.gz contains the results for frustration analyses of complexes from BenchMarkII database. 
 
+The tcl scripts are not included in the compressed folders, and please contact Mingchen Chen if you need them.
+
 For any questions or potential collaborations, please contact Mingchen Chen (chenmingchen19931012@gmail.com). 

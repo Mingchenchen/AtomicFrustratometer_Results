@@ -2,6 +2,7 @@
 Results for atomic frustratometer manuscript.
 
 1: To visualize the results, one must install pymol or VMD on your personal computer. 
+
 To visualize using pymol, please use the following command: 
 $path2pymol/PyMOL example.pdb  example.pml
 
@@ -28,4 +29,4 @@ $path2vmd/vmd example.pdb -e example.tcl
 
 11: The compressed file BenchMarkII_Complex_Survey.tar.gz contains the results for frustration analyses of complexes from BenchMarkII database. 
 
-For any questions, please contact Mingchen Chen (chenmingchen19931012@gmail.com).
+For any questions or potential collaborations, please contact Mingchen Chen (chenmingchen19931012@gmail.com). 

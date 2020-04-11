@@ -31,4 +31,4 @@ $path2vmd/vmd example.pdb -e example.tcl
 
 The tcl scripts are not included in the compressed folders, and please contact Mingchen Chen if you need them.
 
-For any questions or potential collaborations, please contact Mingchen Chen (chenmingchen19931012@gmail.com). 
+For any questions or potential collaborations and obtaining the set of source codes, you may make reasonable request from Mingchen Chen (chenmingchen19931012@gmail.com). 

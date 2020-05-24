@@ -24,7 +24,7 @@ cd example_input;
 ./job.sh 1QYS 50;
 
 
-It's gonna to take around 0.5 hour to finish the calculations, but the time cost might vary based on the different platforms. 
+It's gonna to take around 15 mins to finish the calculations, but the time cost might vary based on the different platforms. 
 
 
 4: Instructions for use.
@@ -34,6 +34,9 @@ After finishing the calculations, users shall visualize the results using VMD or
 
 To visualize using pymol, please use the following command: $path2pymol/PyMOL example.pdb example.pml
 To visualize using VMD, please use the following command: $path2vmd/vmd example.pdb -e example.tcl
+
+
+example_output/result_demo.pse is the saved pymol session file after visulization using Pymol, and example_output/result_demo.png is the sceenshot. 
 
 
 

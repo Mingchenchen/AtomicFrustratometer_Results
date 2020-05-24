@@ -38,5 +38,5 @@ To visualize using VMD, please use the following command: $path2vmd/vmd example.
 
 example_output/result_demo.pse is the saved pymol session file after visulization using Pymol, and example_output/result_demo.png is the sceenshot. 
 
-
+This project is covered under the Academic Free License v3.0.
 

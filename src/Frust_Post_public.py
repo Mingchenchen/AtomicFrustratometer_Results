@@ -123,7 +123,7 @@ def get_index(pdbcode):
     for chain in chains:
         for res in chain:
             cid_list.append(chain.id+str(res.get_id()[1]));
-            print res.get_id()[1]
+            #print res.get_id()[1]
             if (res.get_resname() in se_map) and (res.get_resname() == 'GLY' or res.has_id('CB')==0 ) and res.has_id('CA')==1:
                 ca_atoms.append(res['CA'].get_coord())
                 atom_list.append('CA');

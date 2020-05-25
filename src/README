@@ -21,7 +21,7 @@ Folder example_input contains the input files and relevant scripts to compute at
 Folder example_output contains the example result files (using 50 decoys only, for real purposes, users are encouraged to use >=200 decoys to obtain converged results).
 To obtain similar results as the example results:
 cd example_input;
-./job.sh 1QYS 50;
+./job.sh 1QYS.pdb 50;
 
 
 It's gonna to take around 15 mins to finish the calculations, but the time cost might vary based on the different platforms. 
